@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to Web Design
-===============================================================
+====================
 
 .. toctree::
    :maxdepth: 2
