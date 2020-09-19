@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Web Design and Development - Apssdc'
-copyright = '2020, APSSDC'
-author = 'APSSDC'
+project = 'Web Design- Apssdc'
+copyright = '2020, harshi'
+author = 'harshi'
 
 # The full version, including alpha/beta/rc tags
-release = '1'
+release = '1.1'
 
 
 # -- General configuration ---------------------------------------------------
