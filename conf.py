@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'E-commerce project using Java'
-copyright = '2020, Harideep'
-author = 'Harideep'
+project = 'e commerse project- Apssdc'
+copyright = '2020, harshi'
+author = 'harshi'
 
 # The full version, including alpha/beta/rc tags
-release = ''
+release = '1.1'
 
 
 # -- General configuration ---------------------------------------------------
