@@ -10,7 +10,7 @@ Welcome to Web Design
    :maxdepth: 2
    :numbered: 
    
-   file.mb
+   file1.md
 
 
 Indices and tables
