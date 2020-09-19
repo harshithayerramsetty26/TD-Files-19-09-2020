@@ -8,8 +8,9 @@ Welcome to Web Design and Development - Apssdc's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
+   :numbered: 
+   
+   file.mb
 
 
 Indices and tables
