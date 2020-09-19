@@ -13,9 +13,3 @@ Welcome to Web Design
    file2.md
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
